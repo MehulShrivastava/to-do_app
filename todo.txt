@@ -1,2 +1,4 @@
 Cleaning Room
 Make Food
+hi
+hello
