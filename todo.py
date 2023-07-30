@@ -12,7 +12,6 @@ while True:
     if final_input.startswith('add'):
         todo = final_input[4:].title()
 
-
         todos = get_todo()
         todos.append(todo + '\n')
 

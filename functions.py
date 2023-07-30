@@ -6,3 +6,7 @@ def get_todo():
 def write_todo(todos):
     with open('todo.txt', 'w') as file:
         file.writelines(todos)
+
+if __name__ == "__main__":
+    print("Hello")
+    print(get_todo())
